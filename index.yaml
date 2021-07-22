@@ -1,0 +1,52 @@
+apiVersion: v1
+entries:
+  cert-manager-webhook-dnsimple:
+  - apiVersion: v1
+    appVersion: 0.1.0
+    created: "2021-07-22T12:17:00.437294+03:00"
+    description: cert-manager webhook solver for ACME DNS01 challenge via DNSimple
+    digest: 37be1590c54ae34f5cf27e3fddbc3aa8e9b5f594046420b7b0f7b1eefa5ec95b
+    home: https://github.com/neoskop/cert-manager-webhook-dnsimple
+    maintainers:
+    - email: diekmann@neoskop.de
+      name: Arne Diekmann
+      url: https://www.neoskop.de
+    name: cert-manager-webhook-dnsimple
+    sources:
+    - https://github.com/neoskop/cert-manager-webhook-dnsimple
+    urls:
+    - https://vdmpo-ctco.github.io/helm/charts/cert-manager-webhook-dnsimple-0.1.2.tgz
+    version: 0.1.2
+  - apiVersion: v1
+    appVersion: 0.1.0
+    created: "2021-07-22T12:17:00.436693+03:00"
+    description: cert-manager webhook solver for ACME DNS01 challenge via DNSimple
+    digest: 059e463808c8d1420de8c533d258aee2aab8aaec95d124c2e51d51b468fd5dd7
+    home: https://github.com/neoskop/cert-manager-webhook-dnsimple
+    maintainers:
+    - email: diekmann@neoskop.de
+      name: Arne Diekmann
+      url: https://www.neoskop.de
+    name: cert-manager-webhook-dnsimple
+    sources:
+    - https://github.com/neoskop/cert-manager-webhook-dnsimple
+    urls:
+    - https://vdmpo-ctco.github.io/helm/charts/cert-manager-webhook-dnsimple-0.1.1.tgz
+    version: 0.1.1
+  - apiVersion: v1
+    appVersion: 0.1.0
+    created: "2021-07-22T12:17:00.435657+03:00"
+    description: cert-manager webhook solver for ACME DNS01 challenge via DNSimple
+    digest: 321260a712faf8ccb80b9d8325b452fcba18e50d62337b67082540f388253265
+    home: https://github.com/neoskop/cert-manager-webhook-dnsimple
+    maintainers:
+    - email: diekmann@neoskop.de
+      name: Arne Diekmann
+      url: https://www.neoskop.de
+    name: cert-manager-webhook-dnsimple
+    sources:
+    - https://github.com/neoskop/cert-manager-webhook-dnsimple
+    urls:
+    - https://vdmpo-ctco.github.io/helm/charts/cert-manager-webhook-dnsimple-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-07-22T12:17:00.435058+03:00"
